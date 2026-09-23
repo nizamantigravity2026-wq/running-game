@@ -1,0 +1,7 @@
+{
+  "name": "Grav-Pulse: Null Vector",
+  "description": "A high-octane 3D sci-fi endless runner with dynamic anti-gravity transitions, three-lane obstacle evasion, energy harvesting, and procedural orbital worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
